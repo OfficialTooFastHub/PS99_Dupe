@@ -35,7 +35,7 @@ local Section = Tab:AddSection({
 Tab:AddButton({
     Name = "Click Me To Start Freeze Gems",
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialTooFastHub/Dupe_Script/main/script.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialTooFastHub/Dupe_Script2/main/script.lua))()
     end    
 })
 
